@@ -1,4 +1,5 @@
 # FinalProject
 # Author: Amelia Bresnahan 
 # Credits: W3C Schools 
-# Credits: 
+# Credits: Eric Pogue 
+# Credits: Coding with Karthik 
